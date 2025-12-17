@@ -2,6 +2,7 @@
  * This program prompts the user to enter two numbers (operands)
  * and an arithmetic operator (+, -, *, /). It then performs the
  * calculation and prints the result, handling division by zero errors.
+ *
  */
 int main() {
     int operator;
